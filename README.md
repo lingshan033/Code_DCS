@@ -1,7 +1,7 @@
 # Option Pricing with Dynamic Conditional Skewness
 
 ## Introduction
-This repository contains the MATLAB and Stata code accompanying the paper "Option Pricing with Dynamic Conditional Skewness". The code includes implementations for calculating option prices using the Dynamic Conditional Skewness model, as well as scripts for generating various figures and tables presented in the paper.
+This repository contains the MATLAB and Stata code accompanying the paper _Option Pricing with Dynamic Conditional Skewness_. The code includes implementations for calculating option prices using the Dynamic Conditional Skewness model, as well as scripts for generating various figures and tables presented in the paper.
 
 ## Contents
 - `Data/`: Folder containing the datasets used in the models. Due to database access restrictions, the file `date20070501_20220507_r_RS_RV.mat` and file concerning option data are not publicly available. However, we provide data of Cboe SKEW Index and Cboe Volatility Index.
