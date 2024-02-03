@@ -29,9 +29,9 @@ This project is licensed under the [MIT License](LICENSE).
 If you find this code useful for your research, please cite our paper:
 
 ```bibtex
-@article{YourCitationHere,
-  title={Your Paper Title},
-  author={Your Name and Co-authors},
-  journal={Journal Name},
-  year={Year}
+@article{xxx,
+  title={Option Pricing with Dynamic Conditional Skewness},
+  author={xxx, xxx},
+  journal={xxxx},
+  year={xxx}
 }
