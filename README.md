@@ -29,9 +29,9 @@ This project is licensed under the [MIT License](LICENSE).
 If you find this code useful for your research, please cite our paper:
 
 ```bibtex
-@article{xxx,
+@article{liang2024,
   title={Option Pricing with Dynamic Conditional Skewness},
-  author={xxx, xxx},
-  journal={xxxx},
-  year={xxx}
+  author={Fang Liang, Lingshan Du},
+  journal={Working Paper},
+  year={2024}
 }
