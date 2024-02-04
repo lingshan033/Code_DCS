@@ -14,6 +14,8 @@ This repository contains the MATLAB and Stata code accompanying the paper _Optio
 - `Fig5_Autocorrelations.m`: MATLAB script for generating Figure 5, which analyzes autocorrelations of historical returns and realized components.
 - `Table1_Summary_Stats.m`: MATLAB script for generating Table 1, summarizing the statistics of historical returns and realized components.
 - `Table3_4_Fig6_Options_Stats.do`: Stata do-file for generating Table 3 (concerning bid-ask spread, price, and number of contracts), 4 (concerning in-sample and out-of-sample implied volatility) and Figure 6 (implied volatility curves), related to options dataset.
+- `Option Pricing with Dynamic Conditional Skewness.pdf`: The manuscript of the paper providing in-depth details of the research and findings.
+
 
 ## Requirements
 - MATLAB (version 2021b or later)
